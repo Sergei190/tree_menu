@@ -88,6 +88,3 @@ main_menu
 <img src="imgs/admin_1.jpg" alt="Описание картинки" width="900"/>
 <img src="imgs/admin_2.jpg" alt="Описание картинки" width="900"/>
 <img src="imgs/admin_3.jpg" alt="Описание картинки" width="900"/>
-
-***Вывод в браузер:***
-<img src="imgs/brows.jpg" alt="Описание картинки" width="400"/>
